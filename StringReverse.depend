@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1563527903 source:e:\c++e\stringreverse\stacktype.cpp
+	"StackType.h"
+
+1563527895 e:\c++e\stringreverse\stacktype.h
+
+1563528418 source:e:\c++e\stringreverse\main.cpp
+	<iostream>
+	<string>
+	"StackType.cpp"
+
+1563527903 e:\c++e\stringreverse\stacktype.cpp
+	"StackType.h"
+
